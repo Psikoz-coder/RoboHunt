@@ -32,6 +32,12 @@
 - Go 1.16 or higher
 - A list of subdomains to scan
 
+### Install with go install
+
+```bash
+go install -v github.com/Psikoz-coder/RoboHunt@latest
+```
+
 ### Install from Source
 
 1. **Clone the repository:**
